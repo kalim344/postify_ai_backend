@@ -8,7 +8,7 @@ python-dotenv
 gtts
 moviepy
 edge-tts
-opencv-python==4.10.0.84
+opencv-python-headless
 pillow
 requests
 langchain-google-genai
